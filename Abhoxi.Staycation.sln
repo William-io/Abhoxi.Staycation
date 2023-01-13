@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staycation.Server", "Source\Staycation.Server\Staycation.Server.csproj", "{1C7158EC-D2E0-4CAB-9AC9-A18047AB526D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staycation.Client", "Source\Staycation.Client\Staycation.Client.csproj", "{D678C42C-C462-4226-94EB-0462A059B71E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staycation.Models", "Source\Staycation.Models\Staycation.Models.csproj", "{B3C53496-392B-4766-814D-2CB0C29CFB82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staycation.Data", "Source\Staycation.Data\Staycation.Data.csproj", "{2B22B756-1E84-4AE6-A1B1-D387B7966D4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staycation.Common", "Source\Staycation.Common\Staycation.Common.csproj", "{93C04F90-F800-4B43-85CF-B4094A4A18BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Staycation.Business", "Source\Staycation.Business\Staycation.Business.csproj", "{BFB3359E-144C-40FF-A648-682B53152577}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C7158EC-D2E0-4CAB-9AC9-A18047AB526D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C7158EC-D2E0-4CAB-9AC9-A18047AB526D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C7158EC-D2E0-4CAB-9AC9-A18047AB526D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C7158EC-D2E0-4CAB-9AC9-A18047AB526D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D678C42C-C462-4226-94EB-0462A059B71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D678C42C-C462-4226-94EB-0462A059B71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D678C42C-C462-4226-94EB-0462A059B71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D678C42C-C462-4226-94EB-0462A059B71E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3C53496-392B-4766-814D-2CB0C29CFB82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3C53496-392B-4766-814D-2CB0C29CFB82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3C53496-392B-4766-814D-2CB0C29CFB82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3C53496-392B-4766-814D-2CB0C29CFB82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B22B756-1E84-4AE6-A1B1-D387B7966D4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B22B756-1E84-4AE6-A1B1-D387B7966D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B22B756-1E84-4AE6-A1B1-D387B7966D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B22B756-1E84-4AE6-A1B1-D387B7966D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93C04F90-F800-4B43-85CF-B4094A4A18BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93C04F90-F800-4B43-85CF-B4094A4A18BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93C04F90-F800-4B43-85CF-B4094A4A18BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93C04F90-F800-4B43-85CF-B4094A4A18BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFB3359E-144C-40FF-A648-682B53152577}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFB3359E-144C-40FF-A648-682B53152577}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFB3359E-144C-40FF-A648-682B53152577}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFB3359E-144C-40FF-A648-682B53152577}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0C8CA28-4EA3-4D90-A21C-2331B3C766DE}
+	EndGlobalSection
+EndGlobal
